@@ -50,9 +50,11 @@ ion-icon {
 /* ABOUT */
 .section-about {
   color: white;
-  padding: 4rem 1.5rem;
+  padding: 4rem 1.5rem 1rem 1.5rem;
   background-image: url(images/Picsart_22-07-19_09-04-23-382.jpg);
   background-size: 100%;
+  /* background-repeat: no-repeat; */
+  margin-bottom: 3rem;
   text-align: center;
 }
 .h1 {
@@ -80,11 +82,12 @@ ion-icon {
 /* SERVICES */
 .section-pricing {
   padding: 1.5rem;
+  margin-bottom: 2rem;
 }
 .header-services {
   text-align: center;
   font-size: 3rem;
-  margin-bottom: 0.6rem;
+  margin-bottom: 1.6rem;
 }
 .services-list {
   display: grid;
@@ -136,6 +139,9 @@ img {
 .step {
   align-items: center;
 }
+.steps-box {
+  margin: 1rem;
+}
 
 /* FOOTER */
 .section-footer {
@@ -150,6 +156,9 @@ a:visited {
 .p3 {
   padding: 0.5rem;
   font-size: 0.9rem;
+}
+.margint {
+  padding-top: 4rem;
 }
 .btn:hover,
 .menu:hover,

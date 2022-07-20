@@ -1,0 +1,28 @@
+@media (min-width: 45em) {
+}
+
+@media (min-width: 26.9375em) {
+  .services-list {
+    text-align: start;
+  }
+  .section-footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 1rem;
+    text-align: center;
+  }
+  .do {
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+  }
+  .p2 {
+    font-size: 1.6rem;
+  }
+  .services {
+    font-weight: 500;
+    font-size: 1.2rem;
+  }
+  .p-in {
+    display: inline;
+  }
+}
