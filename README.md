@@ -1,6 +1,1 @@
-# netflix-clone
-
-### netflix is sweeting me.
-
-its pretty nice
-I think I might be addicted
+#A landing page for a Medical Lab in Benin City.
