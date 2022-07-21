@@ -1,8 +1,5 @@
-@media (min-width: 45em) {
-}
-
 @media (min-width: 26.9375em) {
-  .services-list {
+  /* .services-list {
     text-align: start;
   }
   .section-footer {
@@ -24,5 +21,59 @@
   }
   .p-in {
     display: inline;
+  } */
+  html {
+    font-size: 75%;
+  }
+}
+
+@media (min-width: 32.4375em) {
+  html {
+    font-size: 87.5%;
+  }
+}
+
+@media (min-width: 37.6875em) {
+  html {
+    font-size: 100%;
+  }
+  .section-about {
+    padding: 2rem 1.5rem 1rem 1.5rem;
+  }
+  .h1 {
+    font-size: 3.5rem;
+  }
+  .p1 {
+    font-size: 1.9rem;
+  }
+  .p-in {
+    display: inline;
+  }
+}
+
+@media (min-width: 42.6875em) {
+  html {
+    font-size: 112.5%;
+  }
+}
+
+@media (min-width: 46.4375em) {
+  html {
+    font-size: 125%;
+  }
+  .margint {
+    padding-top: 0.9rem;
+  }
+}
+
+@media (min-width: 55.4375em) {
+  html {
+    font-size: 150%;
+  }
+}
+
+@media (min-width: 63.1625em) {
+  html {
+    font-size: 175%;
   }
 }

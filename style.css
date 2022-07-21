@@ -32,7 +32,7 @@ ion-icon {
   color: #1e80c1;
 }
 .menu-slide {
-  top: 31px;
+  top: 3.1rem;
   padding: 1.5rem;
   width: 100%;
   background-color: #fff;
@@ -98,7 +98,7 @@ ion-icon {
   padding: 1.5rem;
   border: 1px solid #6b728028;
   border-radius: 10px;
-  font-weight: 600;
+  font-weight: 500;
 }
 .btw {
   justify-content: space-between;
@@ -129,6 +129,7 @@ img {
 .do {
   font-size: 1rem;
   margin-top: 1.3rem;
+  letter-spacing: 1px;
 }
 .section-steps {
   padding: 1.5rem;
